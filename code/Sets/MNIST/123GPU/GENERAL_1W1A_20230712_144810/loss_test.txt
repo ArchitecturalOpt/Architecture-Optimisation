@@ -1,0 +1,1 @@
+tensor(0.0939450637, device='cuda:0')
